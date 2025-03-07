@@ -1,6 +1,6 @@
 # Explorador da API de Star Wars
 
-Este é um projeto Python que explora a [Star Wars API (SWAPI)](https://swapi.dev/), permitindo acessar informações sobre personagens, naves espaciais e filmes do universo Star Wars. O programa interativo fornece diversas opções para navegar e filtrar os dados.
+##Este é um projeto Python que explora a [Star Wars API (SWAPI)](https://swapi.dev/), permitindo acessar informações sobre personagens, naves espaciais e filmes do universo Star Wars. O programa interativo fornece diversas opções para navegar e filtrar os dados.
 
 ---
 
@@ -16,7 +16,7 @@ Este é um projeto Python que explora a [Star Wars API (SWAPI)](https://swapi.de
 
 ## Estrutura do Projeto
 
-O projeto é composto pelos seguintes arquivos:
+##O projeto é composto pelos seguintes arquivos:
 
 1. **`main.py`**: Arquivo principal do programa. Fornece o menu interativo para o usuário e gerencia a interação com o sistema.
 2. **`swapi_client.py`**: Contém funções para realizar requisições à SWAPI, como buscar dados, obter personagens, naves e filmes.
