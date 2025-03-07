@@ -33,7 +33,7 @@ Certifique-se de que você tem o seguinte instalado em sua máquina:
 ### Instalando as dependências
 Você pode instalar a biblioteca *requests* usando o *pip*:
 
-## ´´pip install requests
+#*`pip install requests´*
 
 
 ## Como usar
