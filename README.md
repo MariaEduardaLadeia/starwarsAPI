@@ -28,7 +28,7 @@ O projeto é composto pelos seguintes arquivos:
 
 Certifique-se de que você tem o seguinte instalado em sua máquina:
 - **Python 3.7 ou superior**
-- Biblioteca `requests` para realizar as requisições HTTP.
+- Biblioteca *requests* para realizar as requisições HTTP.
 
 ### Instalando as dependências
 Você pode instalar a biblioteca *requests* usando o *pip*:
@@ -39,9 +39,12 @@ Você pode instalar a biblioteca *requests* usando o *pip*:
 ## Como usar
 
 -Clone ou baixe este repositório em sua máquina.
+
 -Certifique-se de que os arquivos utils.py, swapi_client.py e main.py  estão no mesmo diretório do programa principal.
+
 -Execute o programa principal:
    **python main.py**
+   
 -Siga o menu interativo para escolher as opções desejadas.
 
 
