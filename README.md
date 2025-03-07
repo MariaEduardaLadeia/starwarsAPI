@@ -20,13 +20,12 @@ O projeto é composto pelos seguintes arquivos:
 
 1. **`main.py`**: Arquivo principal do programa. Fornece o menu interativo para o usuário e gerencia a interação com o sistema.
 2. **`swapi_client.py`**: Contém funções para realizar requisições à SWAPI, como buscar dados, obter personagens, naves e filmes.
-3. **`utils.py`**: Inclui funções auxiliares para manipular e ordenar os dados, como filtrar personagens por gênero, ordenar naves e sugerir a ordem dos filmes.
-
+3. **`utils.py`**: Inclui funções auxiliares para manipular e ordenar os dados, como filtrar personagens por gênero, ordenar naves e etc.
 ---
 
 ## Requisitos
 
-Certifique-se de que você tem o seguinte instalado em sua máquina:
+É preciso que você tenha instalado em sua máquina:
 - **Python 3.7 ou superior**
 - Biblioteca *requests* para realizar as requisições HTTP.
 
