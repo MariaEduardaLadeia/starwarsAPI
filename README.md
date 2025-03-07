@@ -16,7 +16,7 @@
 
 ## Estrutura do Projeto
 
-##O projeto é composto pelos seguintes arquivos:
+O projeto é composto pelos seguintes arquivos:
 
 1. **`main.py`**: Arquivo principal do programa. Fornece o menu interativo para o usuário e gerencia a interação com o sistema.
 2. **`swapi_client.py`**: Contém funções para realizar requisições à SWAPI, como buscar dados, obter personagens, naves e filmes.
@@ -31,7 +31,8 @@ Certifique-se de que você tem o seguinte instalado em sua máquina:
 - Biblioteca `requests` para realizar as requisições HTTP.
 
 ### Instalando as dependências
-Você pode instalar a biblioteca `requests` usando o `pip`:
+Você pode instalar a biblioteca *requests* usando o *pip*:
+
 **pip install requests**
 
 
